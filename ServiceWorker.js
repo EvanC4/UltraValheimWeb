@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-UltraValheim-0.1";
 const contentToCache = [
-    "Build/1.loader.js",
-    "Build/1.framework.js",
-    "Build/1.data",
-    "Build/1.wasm",
+    "Build/Build.loader.js",
+    "Build/Build.framework.js",
+    "Build/Build.data",
+    "Build/Build.wasm",
     "TemplateData/style.css"
 
 ];
